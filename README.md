@@ -96,13 +96,13 @@ hobbies: ["Tech Exploration", "Open Source", "System Tinkering"]
 
 <p align="center">
   <a href="https://github.com/rickyfredy">
-    <img src="https://github-readme-stats.vercel.app/api?username=rickyfredy&show_icons=true&theme=radical&count_private=true" alt="Ricky's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rickyfredy&show_icons=true&theme=radical&count_private=true" alt="Ricky's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rickyfredy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfredy&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rickyfredy&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
