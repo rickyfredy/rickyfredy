@@ -95,15 +95,21 @@ hobbies: ["Tech Exploration", "Open Source", "System Tinkering"]
 <h2> 📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickyfredy&show_icons=true&theme=radical&count_private=true" alt="Ricky's GitHub Stats" />
+  <a href="https://github.com/rickyfredy">
+    <img src="https://github-readme-stats.vercel.app/api?username=rickyfredy&show_icons=true&theme=radical&count_private=true" alt="Ricky's GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfredy&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/rickyfredy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfredy&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickyfredy&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/rickyfredy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickyfredy&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
