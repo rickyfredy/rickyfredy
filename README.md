@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=black&text=Hellow!&fontColor=FFFFFF"/>
 </p>
 
 <h1 align="center">
@@ -98,17 +98,15 @@ hobbies: ["Tech Exploration", "Open Source", "System Tinkering"]
   <a href="https://github.com/rickyfredy">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rickyfredy&show_icons=true&theme=radical&count_private=true" alt="Ricky's GitHub Stats" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/rickyfredy">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rickyfredy&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickyfredy&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
-<p align="center">
+<p align=left">
   <a href="https://github.com/rickyfredy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickyfredy&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rickyfredy&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
